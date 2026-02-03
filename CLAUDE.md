@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Project Is
 
-**wysiwyg-agent-shield** — A CLI tool that diffs what humans see vs what AI agents process, exposing hidden prompt injection payloads before they reach your agent. It implements a 5-layer scanning architecture to detect invisible Unicode encoding, rendered content hiding, agent-targeted server-side cloaking, config file poisoning, and clipboard integrity issues.
+**wysiwyg** — A CLI tool that diffs what humans see vs what AI agents process, exposing hidden prompt injection payloads before they reach your agent. It implements a 5-layer scanning architecture to detect invisible Unicode encoding, rendered content hiding, agent-targeted server-side cloaking, config file poisoning, and clipboard integrity issues.
 
 ## Commands
 
