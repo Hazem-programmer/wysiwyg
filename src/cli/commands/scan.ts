@@ -158,7 +158,8 @@ export async function scanCommand(
       if (fileStat.isFile()) {
         results.push(await scanFile(targetPath));
       } else if (fileStat.isDirectory()) {
-        if (options.recursive || !target) {
+        // Default to recursive for directories (use --no-recursive to disable)
+        if (options.recursive !== false) {
           // Recursive scan (default when scanning a directory)
           const files = await walkDirectory(
             targetPath,
